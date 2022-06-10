@@ -1,0 +1,28 @@
+body
+{
+    font-family: 'Raleway', sans-serif;
+    background-color: #ECE5C7;
+    color: #354259 !important;
+}
+
+#heading
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 45px !important;
+    background-color: #CDC2AE;
+    border-radius: 20px;
+    width: 500px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+#bedroom, #tv_ac, #desk, #bottles, #fruit_basket
+{
+    font-size: 23px;
+    color: #354259;
+    background-color: #C2DED1;
+    border-radius: 10px;
+    width: 500px;
+    padding: 10px;
+    font-weight: 800;
+}
