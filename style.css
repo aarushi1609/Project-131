@@ -16,7 +16,7 @@ body
     margin-top: 20px;
 }
 
-#bedroom, #tv_ac, #desk, #bottles, #fruit_basket
+#bedroom, #tv, #desk, #bottles, #fruit_basket
 {
     font-size: 23px;
     color: #354259;
@@ -25,4 +25,19 @@ body
     width: 500px;
     padding: 10px;
     font-weight: 800;
+}
+
+#home
+{
+    border: none;
+    background-color: #C2DED1;
+    font-size: 23px;
+    float: right;
+    margin-right: 20px;
+}
+
+canvas
+{
+    margin-top: 80px;
+    border-radius: 20px;
 }
